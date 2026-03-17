@@ -1,2 +1,2 @@
 # Problem-Solving_CPP
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+## 프로그래머스, 백준 등 사이트에서 푼 PS 문제들 모음집입니다!!, 대부분의 문제는 C++로 작성했습니다.
